@@ -1,2 +1,2 @@
 # TP
- Programas da disciplica Técnicas de Programagração. 
+ Programas da disciplina de Técnicas de Programação.
